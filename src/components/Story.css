@@ -1,0 +1,8 @@
+.story-item {
+  background-color: rgb(180, 199, 225);
+  border: 1px solid rgb(118, 144, 181);
+  padding: 1rem;
+  width: 22rem;
+  list-style-type: none;
+  margin-bottom: 0.5rem;
+}
